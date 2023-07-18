@@ -95,10 +95,10 @@ Gosto de conteúdos de tecnologia e, por vezes, produzo para as plataformas:
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - #LifeLongLearner
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brezende1&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruno-D-Rezende" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdrezende1&layout=compact&theme=graywhite&title_color=268bd2" alt="Bruno-D-Rezende" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brezende1&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Bruno-D-Rezende" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bdrezende1&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Bruno-D-Rezende" />
 </p>
 
 **Linguagens e ferramentas:**  
