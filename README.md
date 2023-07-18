@@ -128,7 +128,7 @@ Gosto de conteúdos de tecnologia e, por vezes, produzo para as plataformas:
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brezende1" alt="Bruno-D-Rezende" /> </p>
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
