@@ -16,8 +16,8 @@ Me chamo <b> Bruno Rezende</b>.
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-E aí galera, meu nome é Bruno Damico Rezende e resido em São Paulo.<br />
-Sou Engenheiro da Computação, técnico em Desenvolvimento de Sistemas e especializado em Gestão de projetos. </b>. <br/>
+E aí galera, meu nome é Bruno D Rezende e sou de São Paulo.<br />
+Sou Engenheiro da Computação, técnico em Desenvolvimento de Sistemas e especializado em Gestão de Projetos. </b> <br/>
 </p>
 Atualmente tenho realizado algumas formações na área de Engenharia de Dados e Engenharia de Nuvem.<br/>
 Sou favorável ao uso de Seis Sigma, Kanban, Scrum e outros, para o desenvolvimento ágil de processos e <br/>metodologias de melhora de processos.
