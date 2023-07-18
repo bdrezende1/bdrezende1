@@ -20,7 +20,7 @@ E aí galera, meu nome é Bruno Damico Rezende e resido em São Paulo.<br />
 Sou Engenheiro da Computação, técnico em Desenvolvimento de Sistemas e especializado em Gestão de projetos. </b>. <br/>
 </p>
 Atualmente tenho realizado algumas formações na área de Engenharia de Dados e Engenharia de Nuvem.<br/>
-Sou favorável ao uso de Seis Sigma, Kanban, Scrum e outros, para o desenvolvimento ágil de processos e metodologias de melhora de processos.
+Sou favorável ao uso de Seis Sigma, Kanban, Scrum e outros, para o desenvolvimento ágil de processos e <br/>metodologias de melhora de processos.
 <br/>
 Faço parte de comunidades da área de segurança da informação, desenvolvimento mobile e Python Brasil.
 <a href="https://www.linkedin.com/in/bdrezende1/" target="_blank">
