@@ -21,7 +21,7 @@ Sou Engenheiro da Computação, técnico em Desenvolvimento de Sistemas e especi
 </p>
 Atualmente tenho realizado algumas formações na área de Engenharia de Dados e Engenharia de Nuvem.<br/>
 Sou favorável ao uso de Seis Sigma, Kanban, Scrum e outros, para o desenvolvimento ágil de processos e <br/>metodologias de melhora de processos.
-<br/>
+<br/><br/>
 Faço parte de comunidades da área de segurança da informação, desenvolvimento mobile e Python Brasil.
 <a href="https://www.linkedin.com/in/bdrezende1/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
