@@ -16,10 +16,11 @@ Me chamo <b> Bruno Rezende</b>.
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-E aí galera, meu nome é Bruno Damico Rezende, tenho 32 anos e resido em São Paulo.<br />
+E aí galera, meu nome é Bruno Damico Rezende e resido em São Paulo.<br />
 Sou Engenheiro da Computação, técnico em Desenvolvimento de Sistemas e especializado em Gestão de projetos. </b>. <br/>
 </p>
 Atualmente tenho realizado algumas formações na área de Engenharia de Dados e Engenharia de Nuvem.
+Sou favorável ao uso de Seis Sigma, Kanban, Scrum e outros, para o desenvolvimento ágil de processos e metodologias de melhora de processos.
 <br/>
 Faço parte de comunidades da área de segurança da informação, desenvolvimento mobile e Python Brasil..
 <a href="https://www.linkedin.com/in/bdrezende1/" target="_blank">
@@ -126,8 +127,9 @@ Gosto de conteúdos de tecnologia e, por vezes, produzo para as plataformas:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" />
-
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" />
 
 </p>
 
