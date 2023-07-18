@@ -19,16 +19,16 @@ Me chamo <b> Bruno Rezende</b>.
 E aí galera, meu nome é Bruno Damico Rezende e resido em São Paulo.<br />
 Sou Engenheiro da Computação, técnico em Desenvolvimento de Sistemas e especializado em Gestão de projetos. </b>. <br/>
 </p>
-Atualmente tenho realizado algumas formações na área de Engenharia de Dados e Engenharia de Nuvem.
+Atualmente tenho realizado algumas formações na área de Engenharia de Dados e Engenharia de Nuvem.<br/>
 Sou favorável ao uso de Seis Sigma, Kanban, Scrum e outros, para o desenvolvimento ágil de processos e metodologias de melhora de processos.
 <br/>
-Faço parte de comunidades da área de segurança da informação, desenvolvimento mobile e Python Brasil..
+Faço parte de comunidades da área de segurança da informação, desenvolvimento mobile e Python Brasil.
 <a href="https://www.linkedin.com/in/bdrezende1/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <br>
 Sou instrutor voluntário em áreas de tecnologia, curto correr e estou aprendendo a tocar violão nas horas vagas
-<p align="left" >
+<p align="left" ><br>
 Gosto de conteúdos de tecnologia e, por vezes, produzo para as plataformas:
 </p>
 <p align="left" >
@@ -41,6 +41,7 @@ Gosto de conteúdos de tecnologia e, por vezes, produzo para as plataformas:
 🚀 Já participei em eventos como:
   <ul>
   <li> Becas Santander </li>
+  <li> Santander Coders 23</li>
   <li> CyberAcademy FEBRABAN </li>
   <li> Transformação Digital Instituto Técnico de Lisboa </li>
   <li> CiberEducação CISCO </li>
